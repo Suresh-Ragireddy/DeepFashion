@@ -70,6 +70,11 @@ We can also visualize how the loss changes over time. Visualizing losses is quit
 - **Discriminator Loss**: The discriminator's loss is `0.9453`, which is approximately `94.53%`.
 
 Here are some examples of images produced by our model:
+![image](https://github.com/user-attachments/assets/6e370a03-a3b4-44e1-84a5-aba0c88c9308)
+![image](https://github.com/user-attachments/assets/d7500396-b88f-4116-a4cc-3066404efd6a)
+![image](https://github.com/user-attachments/assets/148e64f3-1289-4e68-8581-de7aadd2baa6)
+![image](https://github.com/user-attachments/assets/48973537-7aeb-41e8-a757-9760011808cd)
+
 
 ## Contributing
 
